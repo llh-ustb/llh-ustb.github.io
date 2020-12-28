@@ -6,7 +6,7 @@
   <link href="http://linlh.live/atom.xml" rel="self"/>
   
   <link href="http://linlh.live/"/>
-  <updated>2020-12-28T13:20:28.497Z</updated>
+  <updated>2020-12-28T13:48:37.598Z</updated>
   <id>http://linlh.live/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>remote</title>
+    <link href="http://linlh.live/2020/12/28/remote/"/>
+    <id>http://linlh.live/2020/12/28/remote/</id>
+    <published>2020-12-28T13:48:37.000Z</published>
+    <updated>2020-12-28T13:48:37.598Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Markdown</title>
